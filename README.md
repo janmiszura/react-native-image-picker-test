@@ -1,5 +1,4 @@
-# Carreira
-App com recursos voltados a fidelizar clientes
+# React Native Image Picker Test
 
 ## Android build debug
 # manually create the bundle for a debug build.
